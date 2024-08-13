@@ -98,7 +98,7 @@ git remote set-url origin "$repo_url"
 
 # Push the code to GitHub
 
-git push -u origin main
+git push -u origin master
 
 echo "Script has been pushed to the repository: $repo_url"
 
